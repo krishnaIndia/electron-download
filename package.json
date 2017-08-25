@@ -1,10 +1,10 @@
 {
-  "name": "electron-download",
+  "name": "electron-download-fork",
   "version": "4.1.0",
   "description": "download electron prebuilt binary zips from github releases",
   "main": "lib/index.js",
   "bin": {
-    "electron-download": "lib/cli.js"
+    "electron-download-fork": "lib/cli.js"
   },
   "scripts": {
     "lint": "eslint lib test",
